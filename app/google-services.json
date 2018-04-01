@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457311976762",
+    "firebase_url": "https://udemycourseapp-c073c.firebaseio.com",
+    "project_id": "udemycourseapp-c073c",
+    "storage_bucket": "udemycourseapp-c073c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457311976762:android:0860f3505fafc06c",
+        "android_client_info": {
+          "package_name": "com.example.rangerman.udemycourseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457311976762-n9eo5ab7q86suj59phtgnhcf5uj24fut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rangerman.udemycourseapp",
+            "certificate_hash": "b77c201a38c03e0b18cbd94263acbd1b99e2a37e"
+          }
+        },
+        {
+          "client_id": "457311976762-ks7tehlm869ommd3o5lh6b675p5nfbs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wQI6DmgQSqZnYp16NsRdw45tg5Ngcg0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457311976762-ks7tehlm869ommd3o5lh6b675p5nfbs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
